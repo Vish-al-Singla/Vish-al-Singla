@@ -26,7 +26,7 @@ Talk to me about
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
  <br/>
  <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>   
- https://muskanrani.github.io/Portfolio/   
+ https://vishalsingla.netlify.app/     
  
  
 ###  📫 How to reach me:
