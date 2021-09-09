@@ -2,7 +2,7 @@
 
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Shanu Mishra,an App Developer :iphone: from India who is passionate about technologies.Beside's programming, I enjoy travelling and playing games.
+I'm Vishal Singla,a Web Developer from India who is passionate about technologies. Beside's programming, I enjoy travelling and playing games.
 
 
 ### ⚡ Technologies
