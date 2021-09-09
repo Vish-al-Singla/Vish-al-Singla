@@ -26,7 +26,9 @@ Talk to me about
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vish-al-Singla.Vish-al-Singla)
 
-
+<br/>
+ 
+ 
 ###  📫 How to reach me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@itz_vishi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/itz_vishi)](https://twitter.com/itz_vishi) 
