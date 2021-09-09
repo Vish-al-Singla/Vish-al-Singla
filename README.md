@@ -41,7 +41,7 @@ Talk to me about
         </a>
 </p>   
 <br/>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 <br/>
  <br/> 
 
