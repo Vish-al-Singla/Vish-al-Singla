@@ -40,7 +40,7 @@ Talk to me about
                         src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
         </a>
 </p>
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
  <br/> 
 
