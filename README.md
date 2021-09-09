@@ -51,6 +51,12 @@ Talk to me about
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
  <br/>   
  
+ <br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kelvinosse&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+
+<br/>
+ 
  <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>   
  https://vishalsingla.netlify.app/     
  
