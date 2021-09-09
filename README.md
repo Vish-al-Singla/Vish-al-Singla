@@ -47,9 +47,7 @@ Talk to me about
 <h2> Github Stats </h2> 
 <a href="https://github.com/Vish-al-Singla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish-al-Singla&layout=compact&theme=tokyonight" /></a>
 <br/>
- <br/>
- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
- <br/>   
+ 
  
  <br/>
 
@@ -72,5 +70,8 @@ Talk to me about
 
 ![](https://github-profile-trophy.vercel.app/?username=Vish-al-Singla)
 
+ <br/>
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ <br/>   
 
 
