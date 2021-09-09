@@ -37,7 +37,7 @@ Talk to me about
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
  
 
-
+![](https://github-profile-trophy.vercel.app/?username=Vish-al-Singla)
 
 
 
