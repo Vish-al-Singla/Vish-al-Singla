@@ -1,6 +1,6 @@
 <h1 align="center">Vishal Singla <i><span color="red">The Web Developer</span></i>   
  
- ![](https://komarev.com/ghpvc/?username=Vish-al-Singla&color=brightgreen)    
+ ![](https://komarev.com/ghpvc/?username=Vish-al-Singla&color=brightgreen)
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vish-al-Singla.Vish-al-Singla)
 
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
