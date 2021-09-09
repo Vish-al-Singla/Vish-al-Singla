@@ -16,7 +16,7 @@ Talk to me about
 - Digital Marketing   
  <p align="center">
         <!-- Code logo -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://github.com/Vish-al-Singla?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
         <!-- HTML -->
