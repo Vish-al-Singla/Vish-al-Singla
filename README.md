@@ -34,7 +34,6 @@ Talk to me about
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/itz_vishu27/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s.i.n.g.l.a.v.i.s.h.a.l.s.v@gmail.com)](mailto:s.i.n.g.l.a.v.i.s.h.a.l.s.v@gmail.com)   
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
  
 
 ![](https://github-profile-trophy.vercel.app/?username=Vish-al-Singla)
