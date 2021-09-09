@@ -1,4 +1,4 @@
-<h1 align="center">Vishal Singla <i>The Web Developer</i>
+<h1 align="center">Vishal Singla <i color="blue">The Web Developer</i>
 
 <!--
 **Vish-al-Singla/Vish-al-Singla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
